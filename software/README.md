@@ -9,7 +9,7 @@
 - **cat**
   - **cat >**을 이용하여 새로운 txt를 만들고 바로 Ctrl+D를 사용하여 빈 txt를 생성
 - **tree**
-  - **tree**명령어를 사용하여 tree구조로 나타냄
+  - **tree**명령어를 사용하여 tree구조 표현
 
  ### 결과
 ![software에 올려놨습니다.](software/software%20tree.png)
