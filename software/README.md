@@ -12,4 +12,4 @@
   - **tree**명령어를 사용하여 tree구조 표현
 
  ### 결과
-![software에 올려놨습니다.](software/software%20tree.png)
+![software 폴더에 올려놨습니다.](software/software%20tree.png)
