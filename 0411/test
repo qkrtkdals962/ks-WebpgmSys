@@ -1,0 +1,10 @@
+vi is a powerful text editor available on most Linux systems. Using this editor, you can create or modify files, search for text, replace words, and perform various other tasks.
+
+vi operates in three modes. In command mode, you can move around the text and enter editing commands. In insert mode, you can actually type and edit the text. In command-line mode, you can save or quit the file and perform other file management tasks.
+
+Some commonly used commands in vi include i (enter insert mode), :w (save the file), :q (quit vi), :wq (save and quit), dd (delete a line), and yy (copy a line).
+
+The enhanced version, vim, offers additional features such as syntax highlighting, auto-completion, and plugin support, making it even more efficient for text editing and programming tasks.
+
+vi is fast, lightweight, and incredibly useful on Linux systems. In addition to editing text files, you can efficiently handle various programming tasks with vi.
+

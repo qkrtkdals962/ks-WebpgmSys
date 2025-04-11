@@ -1,0 +1,4 @@
+./hello
+echo $?
+date
+who
